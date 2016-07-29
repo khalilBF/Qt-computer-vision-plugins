@@ -1,5 +1,7 @@
 # cvImageWidget plugin for Qt Creator
+
 ##Description
+An cv::Mat viewer compatible with Qt. The widget supports image streams and automatic updates.
 
 ##requirements
 This plugin requires:
