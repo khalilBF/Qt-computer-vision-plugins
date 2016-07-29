@@ -1,6 +1,6 @@
 #PCL point cloud viewer plugin
 ##Description
-A VTK based widget for *_3D PointClouds visualization_*.
+A VTK based widget for **_3D PointClouds visualization_**.
 ##Requirements
 This plugin requires the following libraries.
 - Qt4.8
@@ -9,6 +9,6 @@ This plugin requires the following libraries.
 - Cmake
 
 ##Installation
-For installing the plugin, change plugins directory in CMakeLists.txt and execute *cmake . && make && make install* in terminal.
+For installing the plugin, change plugins directory in CMakeLists.txt and execute **cmake . && make && make install** in terminal.
 ##Usage
 Drag and drop the widget in Qt-Designer and place it inside your widget.
